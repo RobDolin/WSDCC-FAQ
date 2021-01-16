@@ -1,5 +1,5 @@
 # WSDCC-FAQ
-Frequently Asked Questions (FAQ) collaboratively authored by current and former members of the Washington State Democratic Central Committee (WSDCC.)
+Washington State Democratic Central Committee (WSDCC) Frequently Asked Questions (FAQ) collaboratively authored by current and former members. 
 
 ## Frequently Asked Questions (FAQ)
 **CROWDSOURCE: ADVICE FOR NEW STATE COMMITTEE MEMBERS** - Returning and outgoing members, what do you wish you knew when you joined?  New members: What information would you like?  Please leave comments and replies. 
