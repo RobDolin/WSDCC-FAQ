@@ -5,7 +5,7 @@ Frequently Asked Questions (FAQ) collaboratively authored by current and former 
 **CROWDSOURCE: ADVICE FOR NEW STATE COMMITTEE MEMBERS** - Returning and outgoing members, what do you wish you knew when you joined?  New members: What information would you like?  Please leave comments and replies. 
 
 **Q: What are common acronyms?**
-- A: CD=Congressional District; DNC=Democratic National Committee; LD=Legislative District; LPO=Local Party Organization; PCO=Precinct Committee Officer; PDC=(Washington State) Public Disclosure Commission; SCM=State Committee Member; SOCAS=Separation Of Church And State [Caucus]; SWSDCC=Washington; WSDCO=Washington State Democratic Chairs Organization; WSFDW=Washington State Federation of Democratic Women; YD/YD(s)=Young Democrat(s); YDWA=Young Democrats of Washington
+- A: CD=Congressional District; DNC=Democratic National Committee; LD=Legislative District; LPO=Local Party Organization; PCO=Precinct Committee Officer; PDC=(Washington State) Public Disclosure Commission; SCM=State Committee Member; SOCAS=Separation Of Church And State [Caucus]; WSDCC=Washington State Democratic Central Committee; WSDCO=Washington State Democratic Chairs Organization; WSFDW=Washington State Federation of Democratic Women; YD/YD(s)=Young Democrat(s); YDWA=Young Democrats of Washington
 
 **Q: Who are my peers?**
 - A: Each of 49 legislative district Democratic organizations and each of 39 county Democratic party organizations elects two representatives for a total of 176 (49x2+39x2.)  A list of local party State Committee members (and Chairs and Vice Chairs) is at: https://www.wa-democrats.org/local/ldo/
