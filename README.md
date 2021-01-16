@@ -33,8 +33,11 @@ Frequently Asked Questions (FAQ) collaboratively authored by current and former 
 **Q: How does the WA State Democratic Central Committee (WSDCC) relate to the Democratic National Committee (DNC)?**
 - A: Just as the 88 local party organizations (LPOs) in WA State elect representatives to the WSDCC, each state Democratic party central committee elects representatives to the DNC.  The WSDCC Chair and Vice-Chair along with four DNC representatives are elected by the WSDCC.
 
-### Document History
-This document was started on December 12th, 2020 by WSDCC Secretary, Rob Dolin, as a post on a Facebook group: https://www.facebook.com/groups/243985229369279/permalink/1115293225571804/ 
+### Latest Version and Document History
+Latest public version at: https://robdolin.github.io/WSDCC-FAQ/
+- Document history with links to each edit at: https://github.com/RobDolin/WSDCC-FAQ/commits/main/README.md
+- Example edit: https://github.com/RobDolin/WSDCC-FAQ/commit/19eb95f223b250a71eae3ddc5648b260980429fb
+- This document was started on December 12th, 2020 by WSDCC Secretary, Rob Dolin, as a post on a Facebook group: https://www.facebook.com/groups/243985229369279/permalink/1115293225571804/ 
 
 ### License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
