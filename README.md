@@ -35,6 +35,9 @@ Washington State Democratic Central Committee (WSDCC) Frequently Asked Questions
 **Q: How does the WA State Democratic Central Committee (WSDCC) relate to the Democratic National Committee (DNC)?**
 - A: Just as the 88 local party organizations (LPOs) in WA State elect representatives to the WSDCC, each state Democratic party central committee elects representatives to the DNC.  The WSDCC Chair and Vice-Chair along with four DNC representatives are elected by the WSDCC.
 
+**Q: How do I submit a Resolution for the WSDCC to consider?**
+- A: Regular resolutions may be submitted by a LD Democrats, County Democrats, WSDCC Committee (standing or ad-hoc), recognized WSDCC Caucus, or the Washington State Democratic Convention seven (7) business days prior to a WSDCC meeting. Urgent resolutions may be submitted any of the above along with a one-page statement of urgency; or with signatures of fifty (50) WSDCC members.  Details are in: https://www.wa-democrats.org/wp-content/uploads/2020/08/WSDCC-Rules-for-Resolutions.pdf
+
 **Q: How do I suggest an addition or edit?**
 - A: There is a discussion of this FAQ on Facebook: https://www.facebook.com/groups/243985229369279/permalink/1115293225571804/ (You will need a Facebook.com account)
 - A: Propose changes via GitHub: (You will need a free GitHub.com account)
