@@ -13,6 +13,27 @@ Washington State Democratic Central Committee (WSDCC) Frequently Asked Questions
 **Q: What activities can I expect through the two-year term?**
 - A: The State Central Committee meets approximately quarterly.  Quarterly meetings include trainings, committee meetings, caucus meetings, and a general session with officer reports, DNC rep. reports, and business including resolutions.  The first quarterly meeting is a re-organization and election of officers in Jan/Feb of odd-numbered years.  In the past, this meeting has been in Olympia and offers a chance to meet with elected officials.  In 2021, this meeting will be virtual.  In June of even-numbered years, there is a State Convention where the party platform is approved.  The final meeting of the term is usually in September of even numbered years.  
 
+**Q: When will the WSDCC meet and how does this align with elections?**
+- A: Based on past years a possible schedule might be:
+  - Jan 2021: **WSDCC Re-Organization meeting**
+  - Apr 2021: **WSDCC meeting**
+  - May 2021: Candidate Filing Week
+  - Jul 2021: Primary election ballots mailed
+  - Aug 2021: Primary election ballots due
+  - Sep 2021: **WSDCC meeting**
+  - Oct 2021: General election ballots mailed
+  - Nov 2021: General election ballots due
+  - Jan 2022: **WSDCC meeting**
+  - May 2022: Candidate Filing Week
+  - Jun 2022: **WA State Democrats Convention**
+  - Jul 2022: Primary election ballots mailed
+  - Aug 2022: Primary election ballots due
+  - Sep 2022: **WSDCC meeting**
+  - Oct 2022: General election ballots mailed
+  - Nov 2022: General election ballots due
+  - Dec 2022 and Jan 2023: Local party re-organization meetings
+  - Jan 2023: **WSDCC Re-organization meeting**
+
 **Q: What are the standing committees?**
 - A: In 2020, the six standing committees in alphabetical order are: (1) Advocacy; (2) Affirmative Action; (3) Elections; (4) Finance; (5) Resolutions; and (6) Rules and Bylaws.  WSDCC members are usually appointed by the WSDCC Chair to one standing committee.  Committee duties are in II.E. of the Bylaws linked from:  https://www.wa-democrats.org/about/documents/
 
