@@ -38,7 +38,7 @@ Washington State Democratic Central Committee (WSDCC) Frequently Asked Questions
 - A: In 2020, the six standing committees in alphabetical order are: (1) Advocacy; (2) Affirmative Action; (3) Elections; (4) Finance; (5) Resolutions; and (6) Rules and Bylaws.  WSDCC members are usually appointed by the WSDCC Chair to one standing committee.  Committee duties are in II.E. of the Bylaws linked from:  https://www.wa-democrats.org/about/documents/
 
 **Q: What are the caucuses?**
-- A: WSDCC members have formed caucuses.  Each caucus has its own rules for membership, meetings, and other operations.  A list of 16 caucuses as of Dec 2020 and their leaders is at: https://www.wa-democrats.org/2019-2020-caucuses/
+- A: WSDCC members have formed caucuses.  Each caucus has its own rules for membership, meetings, and other operations.  A list of 15 caucuses as of May 2022 is at: https://www.wa-democrats.org/caucuses/
 
 **Q: Who elects State Committee Members?**
 - A: In even-numbered years, Precinct Committee Officers (PCOs) file for election in May.  If there is a contested race for PCO, this will be on the primary ballot in August.  PCOs take office at the end of November.  In December and January, each (county or LD) local party organization holds a "re-organization" where the PCOs elect officers including a Chair, (1st) Vice Chair, and two State Committee Members.  Some local party organizations elect other officer positions such as multiple Vice Chairs, Secretary, Treasurer, such as At-Large, Communications, Elections, Events, Fundraising, Membership, Recruitment, and more.  Some local party organizations also allow for other non-PCO members to vote on other positions.  
