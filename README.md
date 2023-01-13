@@ -15,30 +15,31 @@ Washington State Democratic Central Committee (WSDCC) Frequently Asked Questions
 
 **Q: When will the WSDCC meet and how does this align with elections?**
 - A: Based on past years a possible schedule might be:
-  - Jan 2021: **WSDCC Re-Organization meeting**
-  - Apr 2021: **WSDCC meeting**
-  - May 2021: Candidate Filing Week
-  - Jul 2021: Primary election ballots mailed
-  - Aug 2021: Primary election ballots due
-  - Sep 2021: **WSDCC meeting**
-  - Oct 2021: General election ballots mailed
-  - Nov 2021: General election ballots due
-  - Jan 2022: **WSDCC meeting**
-  - May 2022: Candidate Filing Week
-  - Jun 2022: **WA State Democrats Convention**
-  - Jul 2022: Primary election ballots mailed
-  - Aug 2022: Primary election ballots due
-  - Sep 2022: **WSDCC meeting**
-  - Oct 2022: General election ballots mailed
-  - Nov 2022: General election ballots due
-  - Dec 2022 and Jan 2023: Local party re-organization meetings
-  - Jan 2023: **WSDCC Re-organization meeting**
+  - Jan 27-28, 2023: **WSDCC Re-Organization meeting** in Olympia
+  - Apr 2023: **WSDCC meeting**
+  - May 2023: Candidate Filing Week
+  - Jul 2023: Primary election ballots mailed
+  - Aug 2023: Primary election ballots due
+  - Sep 2023: **WSDCC meeting**
+  - Oct 2023: General election ballots mailed
+  - Nov 2023: General election ballots due
+  - Jan 2024: **WSDCC meeting**
+  - May 2024: Candidate Filing Week
+  - Jun 2024: **WA State Democrats Convention**
+  - Jul 2024: Primary election ballots mailed
+  - Aug 2024: Primary election ballots due
+  - Jul or Aug 2024: Democratic National Convention
+  - Sep 2024: **WSDCC meeting**
+  - Oct 2024: General election ballots mailed
+  - Nov 2024: General election ballots due
+  - Dec 2024 and Jan 2023: Local party re-organization meetings
+  - Jan 2025: **WSDCC Re-organization meeting**
 
 **Q: What are the standing committees?**
-- A: In 2020, the six standing committees in alphabetical order are: (1) Advocacy; (2) Affirmative Action; (3) Elections; (4) Finance; (5) Resolutions; and (6) Rules and Bylaws.  WSDCC members are usually appointed by the WSDCC Chair to one standing committee.  Committee duties are in II.E. of the Bylaws linked from:  https://www.wa-democrats.org/about/documents/
+- A: In 2020, the six standing committees in alphabetical order were: (1) Advocacy; (2) Affirmative Action; (3) Elections; (4) Finance; (5) Resolutions; and (6) Rules and Bylaws.  WSDCC members are usually appointed by the WSDCC Chair to one standing committee.  Committee duties are in II.E. of the Bylaws linked from:  https://www.wa-democrats.org/about/documents/
 
 **Q: What are the caucuses?**
-- A: WSDCC members have formed caucuses.  Each caucus has its own rules for membership, meetings, and other operations.  A list of 15 caucuses as of May 2022 is at: https://www.wa-democrats.org/caucuses/
+- A: WSDCC members have formed caucuses.  Each caucus has its own rules for membership, meetings, and other operations.  A list of 15 caucuses as of Jan 2023 is at: https://www.wa-democrats.org/caucuses/
 
 **Q: Who elects State Committee Members?**
 - A: In even-numbered years, Precinct Committee Officers (PCOs) file for election in May.  If there is a contested race for PCO, this will be on the primary ballot in August.  PCOs take office at the end of November.  In December and January, each (county or LD) local party organization holds a "re-organization" where the PCOs elect officers including a Chair, (1st) Vice Chair, and two State Committee Members.  Some local party organizations elect other officer positions such as multiple Vice Chairs, Secretary, Treasurer, such as At-Large, Communications, Elections, Events, Fundraising, Membership, Recruitment, and more.  Some local party organizations also allow for other non-PCO members to vote on other positions.  
